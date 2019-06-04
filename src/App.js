@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import ProjectCard from "./components/ProjectCard/";
 import Portfolio from "./components/Portfolio/";
-import Contact from "./components/Contact";
+import Contact from "./components/Contact/";
 import projects from "./projects.json";
 //import Portfolio from './components/Portfolio';
 
