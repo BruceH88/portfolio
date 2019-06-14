@@ -13,7 +13,7 @@ const Contact = (props) => {
         </p>
         <a href="mailto:bruceh_88@comcast.net">BruceH_88@comcast.net</a>
         <br />
-        <a href="#">View Resume</a>
+        <a href="https://drive.google.com/file/d/1ZGO56df6jbk6CXo8JpyFgTNS9Ut9MEZV/view?ths=true" target="_blank">View Resume</a>
       </div>
     </div>
   )
